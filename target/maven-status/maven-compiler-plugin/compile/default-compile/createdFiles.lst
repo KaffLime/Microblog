@@ -1,0 +1,8 @@
+com\artem\korolchuk\study\microblog\entity\Comment.class
+com\artem\korolchuk\study\microblog\MicroblogApplication.class
+com\artem\korolchuk\study\microblog\service\ClientServiceImpl.class
+com\artem\korolchuk\study\microblog\entity\Client.class
+com\artem\korolchuk\study\microblog\service\ClientService.class
+com\artem\korolchuk\study\microblog\repository\ClientRepository.class
+com\artem\korolchuk\study\microblog\controller\ClientController.class
+com\artem\korolchuk\study\microblog\entity\Post.class
