@@ -15,5 +15,4 @@ public class MicroblogApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MicroblogApplication.class, args);
 	}
-
 }
